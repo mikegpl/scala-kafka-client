@@ -178,7 +178,7 @@ Here is the full table of binary compatibilities between Scala Kafka client and 
 
 ### 0.7.0 - 05/2016
 
-* Supports Kafka Client 0.9.0.1
+* Supports Kafka Cl ient 0.9.0.1
 
 ## Acknowledgements
 
